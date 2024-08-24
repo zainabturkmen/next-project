@@ -1,11 +1,11 @@
 import React from "react";
 
-const InfoPage = () => {
+const AboutInfoPage = () => {
   return (
     <div>
-      <h1>InfoPage</h1>
+      <h1 className="text-7xl text-blue-600">InfoPage</h1>
     </div>
   );
 };
 
-export default InfoPage;
+export default AboutInfoPage;
