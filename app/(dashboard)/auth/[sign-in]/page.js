@@ -1,7 +1,8 @@
 import React from "react";
 
-const SinglePage = ({ params }) => {
-  return <div>SinglePage</div>;
+const SignInPage = ({ params }) => {
+  
+  return <div>SignInPage</div>;
 };
 
-export default SinglePage;
+export default SignInPage;
