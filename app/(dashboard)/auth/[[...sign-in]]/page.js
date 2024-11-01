@@ -1,8 +1,9 @@
 import React from "react";
 
 const SignInPage = ({ params }) => {
-  
-  return <div>SignInPage</div>;
+  console.log(params);
+
+  return <div className="text-7xl">SignInPage</div>;
 };
 
 export default SignInPage;
